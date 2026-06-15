@@ -29,7 +29,7 @@ The Syncfusion<sup style="font-size:70%">&reg;</sup> [Vue DOCX Editor](https://w
 
 - **Documentation:**   [Syncfusion® Vue Word Processor - Documentation](https://help.syncfusion.com/document-processing/word/word-processor/vue/overview?utm_source=github&utm_medium=listing&utm_campaign=github-vue-docx-editor-examples) 
 
-- **Online demo:**   [Syncfusion® Vue Word Processor - Online demo](https://document.syncfusion.com/#/docx-editor-sdk?utm_source=github&utm_medium=listing&utm_campaign=github-vue-docx-editor-examples) 
+- **Online demo:**   [Syncfusion® Vue Word Processor - Online demo](https://document.syncfusion.com/demos/docx-editor/vue/#/tailwind3/document-editor/default.html?utm_source=github&utm_medium=listing&utm_campaign=github-vue-docx-editor-examples) 
 
 # Support and feedback
 
