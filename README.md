@@ -1,4 +1,4 @@
-# Syncfusion&reg; Vue DOCX Editor
+# Syncfusion&reg; Vue DOCX Editor (Document Editor)
 
 The Syncfusion<sup style="font-size:70%">&reg;</sup> [Vue DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/Vue-docx-editor?utm_source=github&utm_medium=github&utm_campaign=github-vue-docx-editor-examples) (Document Editor) is a feature-rich, user-interactive component that enables creating, editing, viewing, and printing Word documents with advanced formatting, editing capabilities, and broad support for document import and export formats.
 
@@ -25,11 +25,11 @@ The Syncfusion<sup style="font-size:70%">&reg;</sup> [Vue DOCX Editor](https://w
 
 # Resources
 
-- **Product page:**   [Syncfusion® Vue Word Processor](https://www.syncfusion.com/docx-editor-sdk/Vue-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-vue-docx-editor-examples) 
+- **Product page:**   [Syncfusion® Vue DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/Vue-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-vue-docx-editor-examples) 
 
-- **Documentation:**   [Syncfusion® Vue Word Processor - Documentation](https://help.syncfusion.com/document-processing/word/word-processor/vue/overview?utm_source=github&utm_medium=listing&utm_campaign=github-vue-docx-editor-examples) 
+- **Documentation:**   [Syncfusion® Vue DOCX Editor - Documentation](https://help.syncfusion.com/document-processing/word/word-processor/vue/overview?utm_source=github&utm_medium=listing&utm_campaign=github-vue-docx-editor-examples) 
 
-- **Online demo:**   [Syncfusion® Vue Word Processor - Online demo](https://document.syncfusion.com/demos/docx-editor/vue/#/tailwind3/document-editor/default.html?utm_source=github&utm_medium=listing&utm_campaign=github-vue-docx-editor-examples) 
+- **Online demo:**   [Syncfusion® Vue DOCX Editor - Online demo](https://document.syncfusion.com/demos/docx-editor/vue/#/tailwind3/document-editor/default.html?utm_source=github&utm_medium=listing&utm_campaign=github-vue-docx-editor-examples) 
 
 # Support and feedback
 
