@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@syncfusion/ej2-tailwind3-theme": "^34.2.3",
     "@syncfusion/ej2-vue-documenteditor": "^33.2.6",
     "vue": "^3.5.34"
   },
